@@ -13,3 +13,5 @@ ss=""
 for i in list45:
 	ss=ss+str(i)
 print(ss)
+#[123, 321, 32, 3]
+#123321323
